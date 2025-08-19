@@ -153,7 +153,7 @@ This project is licensed under the MIT License.
 
 - Built on top of the excellent [mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent) project
 - Designed for standardized AI agent benchmarking
-- Thanks to the SWE-Bench team for creating the evaluation framework
+- Thanks to the [SWE-Bench](https://github.com/SWE-bench/SWE-bench) team for creating the evaluation framework
 
 ---
 
