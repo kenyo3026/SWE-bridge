@@ -1,6 +1,6 @@
 # SWE-Bridge 🔄
 
-🔄 SWE-Bridge – Bridge agent outputs into SWE-Bench submission-ready formats for standardized benchmarking across different agents
+🔄 SWE-Bridge – Bridge agent outputs into [SWE-Bench](https://github.com/SWE-bench/SWE-bench) submission-ready formats for standardized benchmarking across different agents
 
 A lightweight Python utility that converts various AI agent outputs into standardized SWE-Bench submission formats, enabling consistent evaluation and comparison across different agent implementations.
 
@@ -137,7 +137,7 @@ The bridge automatically handles:
 
 ## 🔮 Future Work
 
-Our vision is to create a **universal wrapper** that can seamlessly integrate with various AI agents, providing a complete end-to-end pipeline for SWE-Bench submissions:
+Our vision is to create a **universal wrapper** that can seamlessly integrate with various AI agents, providing a complete end-to-end pipeline for [SWE-Bench](https://github.com/SWE-bench/SWE-bench) submissions:
 
 - **🔄 Universal Agent Integration**: Develop a standardized interface that can wrap around any agent implementation
 - **📥 Pre-processing Pipeline**: Automatically handle input formatting, environment setup, and configuration management
