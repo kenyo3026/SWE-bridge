@@ -135,6 +135,16 @@ The bridge automatically handles:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
+## 🔮 Future Work
+
+Our vision is to create a **universal wrapper** that can seamlessly integrate with various AI agents, providing a complete end-to-end pipeline for SWE-Bench submissions:
+
+- **🔄 Universal Agent Integration**: Develop a standardized interface that can wrap around any agent implementation
+- **📥 Pre-processing Pipeline**: Automatically handle input formatting, environment setup, and configuration management
+- **📤 Post-processing Pipeline**: Standardize outputs, generate git patches, and format submissions for SWE-Bench
+
+This would make SWE-Bench evaluation accessible to the entire AI agent ecosystem, enabling standardized benchmarking across different frameworks and implementations.
+
 ## 📄 License
 
 This project is licensed under the MIT License.
